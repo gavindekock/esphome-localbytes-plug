@@ -1,0 +1,13 @@
+{
+  "chipFamily": "ESP8266",
+  "ota": {
+    "path": "localbytes-plug-pm-esp8266/localbytes-plug-pm-esp8266.ota.bin",
+    "md5": "466430ee435f2a49de2cb6896f403020"
+  },
+  "parts": [
+    {
+      "path": "localbytes-plug-pm-esp8266/localbytes-plug-pm-esp8266.factory.bin",
+      "offset": 0
+    }
+  ]
+}
